@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "firenh.tridention.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"StructurePieceAccessor",
+		"OceanMonumentGenerator_CoreRoomMixin",
+		"TridentEntityMixin",
+		"TridentEntityAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

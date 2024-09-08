@@ -1,0 +1,4 @@
+accessWidener v2 named
+
+# Making the Ocean Monument Generator Piece class accessible
+accessible   class   net/minecraft/structure/OceanMonumentGenerator$Piece
